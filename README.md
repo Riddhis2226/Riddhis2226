@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=240&section=header&text=RIDDHIMA%20SINGH&fontSize=48&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=Data%20Analyst%20%7C%20BI%20Engineer%20%7C%20Analytics%20%26%20AI%20Solutions&descAlignY=54&descSize=16&descColor=D6E4EA" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=240&section=header&text=RIDDHIMA%20SINGH&fontSize=48&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=Building%20Analytics%20Platforms%20for%20Data-Driven%20Decision%20Making&descAlignY=54&descSize=16&descColor=D6E4EA" width="100%"/>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=2C5364&center=true&vCenter=true&width=780&lines=Production-Grade+Analytics+Systems;RFM+%7C+Monte+Carlo+%7C+Cloud+BI+%7C+PySpark;Retail+%7C+Finance+%7C+Healthcare+%7C+Supply+Chain;Open+to+Data+Analyst+%26+BI+Engineer+Roles)](https://git.io/typing-svg)
 
@@ -242,10 +242,23 @@ timeline
 ## GitHub Analytics
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Riddhis2226&show_icons=true&theme=tokyonight&hide_border=true&title_color=2C5364&icon_color=2C5364" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Riddhis2226&layout=compact&theme=tokyonight&hide_border=true&title_color=2C5364" height="165"/>
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=Riddhis2226&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"
+    height="180"
+  />
+
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Riddhis2226&layout=compact&theme=tokyonight&hide_border=true"
+    height="180"
+  />
 </p>
 
+<p align="center">
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com/?user=Riddhis2226&theme=tokyonight&hide_border=true"
+    height="180"
+  />
+</p>
 ---
 
 <div align="center">
