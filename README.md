@@ -240,27 +240,25 @@ timeline
 ---
 
 ## GitHub Analytics
+## 📡 GitHub Analytics
 
 <p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=Riddhis2226&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"
-    height="180"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Riddhis2226&layout=compact&theme=tokyonight&hide_border=true"
-    height="180"
-  />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Riddhis2226&show_icons=true&theme=transparent&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Riddhis2226&layout=compact&theme=transparent&hide_border=true" />
 </p>
 
 <p align="center">
-  <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=Riddhis2226&theme=tokyonight&hide_border=true"
-    height="180"
-  />
+  <img src="https://streak-stats.demolab.com?user=Riddhis2226&theme=transparent&hide_border=true" />
 </p>
 
 <div align="center">
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,100:0F2027&height=90&section=footer"/>
+
+<br><br>
+
+<b>Turning Data into Decisions. Turning Decisions into Impact.</b>
+
 <br>
-<em>Building analytics systems that turn data into decisive advantage.</em>
+<sub>Analytics • Visualization • Automation • Intelligence</sub>
 </div>
