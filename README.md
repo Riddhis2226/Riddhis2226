@@ -239,16 +239,15 @@ timeline
 
 ---
 
-## GitHub Analytics
 ## 📡 GitHub Analytics
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Riddhis2226&show_icons=true&theme=transparent&hide_border=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Riddhis2226&layout=compact&theme=transparent&hide_border=true" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Riddhis2226&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Riddhis2226&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Riddhis2226&theme=transparent&hide_border=true" />
+  <img width="70%" src="https://streak-stats.demolab.com?user=Riddhis2226&theme=tokyonight&hide_border=true" />
 </p>
 
 <div align="center">
