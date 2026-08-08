@@ -241,17 +241,27 @@ timeline
 
 ## 📡 GitHub Analytics
 
-<p align="center">
-  <img width="70%" src="https://streak-stats.demolab.com?user=Riddhis2226&theme=tokyonight&hide_border=true" />
-</p>
-
 <div align="center">
 
-## 📡 Activity Heatmap
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com?user=Riddhis2226&theme=tokyonight&hide_border=true&border_radius=10"/>
 
-<p align="center">
-  <img src="https://ghchart.rshah.org/Riddhis2226" alt="GitHub Contributions" />
-</p>
+<br><br>
+
+<img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Riddhis2226&theme=tokyonight"/>
+<img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Riddhis2226&theme=tokyonight&utcOffset=5.5"/>
+
+<br><br>
+
+<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Riddhis2226&theme=tokyonight"/>
+
+<br><br>
+
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Riddhis2226&theme=tokyonight"/>
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Riddhis2226&theme=tokyonight"/>
+
+</div>
+
+<div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,100:0F2027&height=90&section=footer"/>
 
