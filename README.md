@@ -4,7 +4,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=2C5364&center=true&vCenter=true&width=780&lines=Production-Grade+Analytics+Systems;RFM+%7C+Monte+Carlo+%7C+Cloud+BI+%7C+PySpark;Retail+%7C+Finance+%7C+Healthcare+%7C+Supply+Chain;Open+to+Data+Analyst+%26+BI+Engineer+Roles)](https://git.io/typing-svg)
 
-**📍 Raipur, India** · **B.Tech CSE (Data Science) · Amity University** · **CGPA 7.45** · **2026 Graduate**
+**📍 Raipur, Chhattisgarh, India** · **B.Tech CSE (Data Science) · Amity University** · **CGPA 7.45** · **2026 Graduate**
 
 <br>
 
@@ -242,15 +242,16 @@ timeline
 ## 📡 GitHub Analytics
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Riddhis2226&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Riddhis2226&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
   <img width="70%" src="https://streak-stats.demolab.com?user=Riddhis2226&theme=tokyonight&hide_border=true" />
 </p>
 
 <div align="center">
+
+## 📡 Activity Heatmap
+
+<p align="center">
+  <img src="https://ghchart.rshah.org/Riddhis2226" alt="GitHub Contributions" />
+</p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,100:0F2027&height=90&section=footer"/>
 
