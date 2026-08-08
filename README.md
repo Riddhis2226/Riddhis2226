@@ -1,3 +1,4 @@
+```markdown
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=240&section=header&text=RIDDHIMA%20SINGH&fontSize=48&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=Data%20Analyst%20%7C%20BI%20Engineer%20%7C%20Analytics%20%26%20AI%20Solutions&descAlignY=54&descSize=16&descColor=D6E4EA" width="100%"/>
@@ -39,47 +40,6 @@
 | Supply Chain | ████████░░ | Demand · Route Optimization |
 | Cloud Analytics | ███████░░░ | AWS S3 · Athena · QuickSight |
 | Big Data Engineering | ███████░░░ | PySpark · Distributed Processing |
-
----
-
-## Domain Expertise
-
-<table>
-<tr>
-<td width="33%" align="center">
-<strong>🛍️ Retail</strong><br>
-RFM · CLV · Sentiment<br>
-<em>Consumer360 · ZomatoLens</em>
-</td>
-<td width="33%" align="center">
-<strong>💰 Finance</strong><br>
-VaR · Monte Carlo · Frontier<br>
-<em>AlphaPulse · Portfolio Opt.</em>
-</td>
-<td width="33%" align="center">
-<strong>🏥 Healthcare</strong><br>
-Readmission · Capacity<br>
-<em>MediFlow Cloud</em>
-</td>
-</tr>
-<tr>
-<td width="33%" align="center">
-<strong>🚚 Supply Chain</strong><br>
-Forecasting · Logistics<br>
-<em>LogiScale BigData</em>
-</td>
-<td width="33%" align="center">
-<strong>📡 Telecom</strong><br>
-OCR · Automation<br>
-<em>BSNL Training</em>
-</td>
-<td width="33%" align="center">
-<strong>🎓 Education</strong><br>
-IoT · Face Recognition<br>
-<em>EduVista</em>
-</td>
-</tr>
-</table>
 
 ---
 
@@ -195,19 +155,6 @@ IoT · Face Recognition<br>
 
 ---
 
-## Repository Hub
-
-| Project | Domain | Link |
-|:--------|:-------|:-----|
-| Consumer360 | Retail Analytics | [→](https://github.com/Riddhis2226/Consumer-360) |
-| AlphaPulse | Financial Risk | [→](https://github.com/Riddhis2226/AlphaPulse-Portfolio-Risk-Monitor) |
-| EduVista | Smart Education | [→](https://github.com/Riddhis2226/Edu-Vista-Attendance) |
-| ZomatoLens | Restaurant Intelligence | [→](https://github.com/Riddhis2226/ZomatoLens-A-Data-Driven-Exploration-of-Restaurant-Trends-in-India) |
-| Portfolio Optimization | Quant Finance | [→](https://github.com/Riddhis2226/Financial-Portfolio-Optimization-System) |
-| Fuel Economy Analysis | Predictive Analytics | [→](https://github.com/Riddhis2226/Fuel-Ecomony-Analysis-and-Predictive-Modeling) |
-
----
-
 ## Enterprise Builds
 
 ### 🏥 MediFlow Cloud — Healthcare Analytics
@@ -238,7 +185,7 @@ IoT · Face Recognition<br>
 | **Architecture** | PySpark → Spark SQL / Parquet → Streamlit + Plotly |
 | **Stack** | PySpark · Spark SQL · Parquet · Streamlit · Gemini API |
 | **Status** | In Progress |
-| **Value** | First-run load ~38 s → ~3.6 s; analytics-first narrative layer |
+| **Value** | First-run load ~38 s → ~3.6 s |
 
 ---
 
@@ -279,17 +226,17 @@ timeline
 
 ---
 
-## Technology Capability
+## Technology Stack
 
 | Category | Technologies |
 |:---------|:-------------|
 | **Programming** | Python · SQL · JavaScript |
 | **Analytics** | Pandas · NumPy · SciPy · Scikit-Learn |
-| **Visualization** | Power BI · Tableau · Plotly · Streamlit · Matplotlib · Seaborn |
+| **Visualization** | Power BI · Tableau · Plotly · Streamlit |
 | **Databases** | MySQL · SQLite · MongoDB |
 | **Cloud** | AWS S3 · AWS Athena · QuickSight |
 | **Big Data** | PySpark · Spark SQL · Parquet |
-| **AI & Automation** | OpenAI · Gemini · Claude · Hugging Face · n8n · Zapier · Make |
+| **AI & Automation** | OpenAI · Gemini · Claude · Hugging Face · n8n · Zapier |
 
 ---
 
@@ -302,31 +249,9 @@ timeline
 
 ---
 
-## Connect
-
-<p align="center">
-<a href="https://www.linkedin.com/in/riddhima-singh-a7383431a">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-<a href="https://github.com/Riddhis2226">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-<a href="mailto:rsm130205@gmail.com">
-<img src="https://img.shields.io/badge/Email-2C5364?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-<a href="REPLACE_WITH_RESUME_LINK">
-<img src="https://img.shields.io/badge/Resume-0F2027?style=for-the-badge&logo=googledrive&logoColor=white"/>
-</a>
-</p>
-
-<p align="center">
-<strong>Raipur, Chhattisgarh, India</strong>
-</p>
-
----
-
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,100:0F2027&height=90&section=footer"/>
 <br>
 <em>Building analytics systems that turn data into decisive advantage.</em>
 </div>
+```
