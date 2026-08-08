@@ -1,4 +1,3 @@
-```markdown
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=240&section=header&text=RIDDHIMA%20SINGH&fontSize=48&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=Data%20Analyst%20%7C%20BI%20Engineer%20%7C%20Analytics%20%26%20AI%20Solutions&descAlignY=54&descSize=16&descColor=D6E4EA" width="100%"/>
@@ -331,4 +330,3 @@ timeline
 <br>
 <em>Building analytics systems that turn data into decisive advantage.</em>
 </div>
-```
