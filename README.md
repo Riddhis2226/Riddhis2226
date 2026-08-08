@@ -246,7 +246,6 @@ timeline
     src="https://github-readme-stats.vercel.app/api?username=Riddhis2226&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"
     height="180"
   />
-
   <img
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=Riddhis2226&layout=compact&theme=tokyonight&hide_border=true"
     height="180"
@@ -259,7 +258,6 @@ timeline
     height="180"
   />
 </p>
----
 
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,100:0F2027&height=90&section=footer"/>
