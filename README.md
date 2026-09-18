@@ -30,7 +30,7 @@ Rebuilding broken models: RFM segmentation, CLV formulas, churn pipelines
 |---|---|
 | **Focus** | Customer & financial analytics, BI dashboards, ML-driven decision systems |
 | **Core strength** | Rebuilding broken or naive data models into statistically sound, production-ready systems |
-| **Background** | B.Tech CSE (Data Science), Amity University Chhattisgarh — graduating June 2026 |
+| **Background** | B.Tech CSE (Data Science), Amity University Chhattisgarh — graduated June 2026 |
 | **Based in** | Raipur, India |
 
 I don't just build dashboards — I audit the analytics underneath them. Across my project work I've replaced a broken 5-segment RFM model with an 11-segment one, corrected a mathematically flawed CLV formula, and caught a churn model with label leakage producing a spurious AUC of 1.0.
@@ -228,7 +228,7 @@ Also served as **Team Lead at Smart India Hackathon (SIH) 2025** and **VP of an 
 ![Analytics Engineer](https://img.shields.io/badge/Analytics_Engineer-5D6E8D?style=for-the-badge)
 ![Data Engineer](https://img.shields.io/badge/Data_Engineer_(Entry)-8B5CF6?style=for-the-badge)
 
-**Graduating June 2026 · Open to internships and full-time roles**
+**B.Tech CSE (Data Science), 2026 · Open to full-time opportunities**
 
 </div>
 
