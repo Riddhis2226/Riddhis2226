@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./banner.svg" width="100%"/>
+<img src="./assets/banner.svg" width="100%"/>
 
 <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=16&pause=1200&color=8B5CF6&center=true&vCenter=true&width=600&lines=Transforming+raw+data+into+decision-ready+systems;Rebuilding+broken+models%2C+not+just+building+dashboards" alt="Typing SVG"/>
 
@@ -204,6 +204,18 @@ I don't just build dashboards — I audit the analytics underneath them. Across 
 | **UltraTech Cement** | Industrial / manufacturing analytics |
 
 Also served as **Team Lead at Smart India Hackathon (SIH) 2025** and **VP of an ethical hacking club**.
+
+<br/>
+
+## GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Riddhis2226&show_icons=true&hide_border=true&bg_color=0D1117&title_color=06B6D4&icon_color=8B5CF6&text_color=c9d1d9&count_private=true" alt="GitHub Stats" width="480"/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Riddhis2226&bg_color=0D1117&color=06B6D4&line=8B5CF6&point=ffffff&area=true&hide_border=true" width="480"/>
+
+</div>
 
 <br/>
 
