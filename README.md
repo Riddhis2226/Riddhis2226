@@ -207,18 +207,6 @@ Also served as **Team Lead at Smart India Hackathon (SIH) 2025** and **VP of an 
 
 <br/>
 
-## GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Riddhis2226&show_icons=true&hide_border=true&bg_color=0D1117&title_color=06B6D4&icon_color=8B5CF6&text_color=c9d1d9&count_private=true" alt="GitHub Stats" width="480"/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Riddhis2226&bg_color=0D1117&color=06B6D4&line=8B5CF6&point=ffffff&area=true&hide_border=true" width="480"/>
-
-</div>
-
-<br/>
-
 ## Open to Opportunities
 
 <div align="center">
