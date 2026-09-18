@@ -1,101 +1,228 @@
-<img src="assets/banner-hd.svg" width="100%" alt="Riddhima Singh — Data Analyst & BI Engineer"/>
+<div align="center">
+
+# Riddhima Singh
+
+### Analytics Engineer · Data Analyst · BI Developer
+
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Transforming+raw+data+into+decision-ready+systems;Building+production-grade+analytics+pipelines;Correcting+flawed+models%2C+not+just+building+them" alt="Typing SVG" />
 
 <br/>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF8A65,50:845EC2,100:4E9DE0&height=220&section=header&text=Riddhima%20Singh&fontSize=50&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Data%20Analyst%20%7C%20BI%20Engineer%20%7C%20Analytics%20Across%20Retail%2C%20Finance%20%26%20Healthcare&descAlignY=58&descSize=16&descColor=F0EAF7" width="100%"/>
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/riddhima-singh-a7383431a)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Riddhis2226)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rsm130205@gmail.com)
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=845EC2&center=true&vCenter=true&width=650&lines=RFM+Segmentation+%7C+Cohort+Analysis;Monte+Carlo+%7C+VaR+%7C+Portfolio+Risk;PySpark+%7C+AWS+Athena+%7C+Power+BI;Open+to+Data+Analyst+%26+BI+Roles" alt="Typing SVG"/>
-</p>
+</div>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Riddhis2226&label=Profile%20Views&color=845EC2&style=flat-square"/>
-  <img src="https://img.shields.io/github/followers/Riddhis2226?label=Followers&style=flat-square&color=845EC2"/>
-</p>
+<br/>
 
----
+## Positioning
 
-## 🧑‍💻 About Me
+| | |
+|---|---|
+| **Focus** | Customer & financial analytics, BI dashboards, ML-driven decision systems |
+| **Core strength** | Rebuilding broken or naive data models into statistically sound, production-ready systems |
+| **Background** | B.Tech CSE (Data Science), Amity University Chhattisgarh — graduating June 2026 |
+| **Based in** | Raipur, India |
 
-- 🔭 Currently building: **domain-spanning analytics systems** — retail, finance, healthcare, and supply chain
-- 💬 Ask me about: **RFM segmentation, cohort analysis, Monte Carlo risk modeling, PySpark, Power BI**
-- 🎓 B.Tech CSE (Data Science) graduate, Amity University Chhattisgarh
-- 📫 Reach me at: **rsm130205@gmail.com**
-- 📄 Resume: [REPLACE_WITH_RESUME_LINK](REPLACE_WITH_RESUME_LINK)
-- 🌱 Actively looking for: **Data Analyst / BI Developer / Analytics Engineer** roles
+I don't just build dashboards — I audit the analytics underneath them. Across my project work I've replaced a broken 5-segment RFM model with an 11-segment one, corrected a mathematically flawed CLV formula, and caught a churn model with label leakage producing a spurious AUC of 1.0. That's the standard I hold my own work to.
 
----
+<br/>
 
-## 📊 GitHub Stats
+## Impact Snapshot
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Riddhis2226&show_icons=true&theme=radical&hide_border=true&count_private=true" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Riddhis2226&theme=radical&hide_border=true" height="165"/>
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Riddhis2226&layout=compact&theme=radical&hide_border=true&langs_count=8"/>
-</p>
+| Metric | Detail |
+|---|---|
+| **Flagship analytics systems** | 4 (Consumer360, AlphaPulse, LogiScale BigData, EcoDriveML) |
+| **Data engineered end-to-end** | Medallion architecture (Bronze → Silver → Gold), UCI Online Retail + large-scale EPA vehicle datasets |
+| **Records processed** | 500K+ e-commerce records (DataVinci analytics engagement) |
+| **Test coverage** | 50 automated pytest tests on a production FastAPI service |
+| **Model corrections made** | 3 — RFM segmentation, CLV formula, churn label leakage |
+| **Internships completed** | 4 — Infotact Solutions, BSNL, Cognifyz Technologies, UltraTech Cement |
 
----
+</div>
 
-## 🛠️ Tech Stack
+<br/>
 
-### 👨‍💻 Languages
-![Python](https://img.shields.io/badge/Python-845EC2?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4E9DE0?style=for-the-badge&logo=postgresql&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-FF8A65?style=for-the-badge&logo=javascript&logoColor=black)
+## Featured Work
 
-### 📈 Analytics & Data Science
-![Pandas](https://img.shields.io/badge/Pandas-845EC2?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-4E9DE0?style=for-the-badge&logo=numpy&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-FF8A65?style=for-the-badge&logo=scikitlearn&logoColor=black)
-![PySpark](https://img.shields.io/badge/PySpark-5ED1B8?style=for-the-badge&logo=apachespark&logoColor=black)
+<table>
+<tr>
+<td width="50%" valign="top">
 
-### 📊 Visualization & BI
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
-![Plotly](https://img.shields.io/badge/Plotly-845EC2?style=for-the-badge&logo=plotly&logoColor=white)
+### 🏗️ Consumer360
+**Enterprise-grade customer analytics platform**
+
+**Problem:** The original retail-analytics build used a naive 5-segment RFM model, a mathematically flawed CLV formula, and a churn model with label leakage inflating its AUC to 1.0 — none of it trustworthy for real decisions.
+
+**Solution:** Rebuilt from scratch on Medallion architecture (Bronze → Silver → Gold) over the UCI Online Retail dataset, with an 11-segment RFM model, BG/NBD + Gamma-Gamma CLV modeling, and a corrected churn pipeline — served through a FastAPI REST layer, orchestrated with Prefect, modeled in dbt, and covered by 50 pytest tests.
+
+**Stack:** `Python` `FastAPI` `dbt` `Prefect` `Docker` `Azure` `pytest`
+
+[View on GitHub →](https://github.com/Riddhis2226?tab=repositories)
+
+</td>
+<td width="50%" valign="top">
+
+### 📈 AlphaPulse
+**Multipage financial analytics application**
+
+**Problem:** Financial analytics tools that bundle risk, optimization, and forecasting into a single unstructured script don't scale or read well for a real user.
+
+**Solution:** Refactored into a multipage Streamlit application with dedicated modules for risk analytics, portfolio optimization, predictive analytics, and market overview, backed by MongoDB and deployed on Streamlit Community Cloud.
+
+**Stack:** `Python` `Streamlit` `MongoDB`
+
+[View on GitHub →](https://github.com/Riddhis2226?tab=repositories)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🚚 LogiScale BigData
+**Global logistics analytics pipeline**
+
+**Problem:** Global logistics data at scale needs a pipeline that can actually handle volume, plus a way for non-technical stakeholders to interrogate it.
+
+**Solution:** Built a PySpark pipeline on Google Colab feeding a Power BI "Control Tower" dashboard and a Streamlit + Gemini AI analytics app — including diagnosing and resolving a pandas/pyarrow timestamp precision bug and a PySpark JAR conflict along the way.
+
+**Stack:** `PySpark` `Power BI` `Streamlit` `Gemini AI`
+
+[View on GitHub →](https://github.com/Riddhis2226?tab=repositories)
+
+</td>
+<td width="50%" valign="top">
+
+### 🚗 EcoDriveML
+**Large-scale vehicle emissions ML pipeline**
+
+**Problem:** EPA vehicle datasets are large and messy enough that ad-hoc notebook analysis breaks down fast.
+
+**Solution:** Built a large-scale ML pipeline in Jupyter over EPA vehicle data, with a deliberate focus on keeping every new section consistent with existing notebook conventions as the analysis scaled.
+
+**Stack:** `Python` `Jupyter` `pandas`
+
+[View on GitHub →](https://github.com/Riddhis2226?tab=repositories)
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+## Analytics Expertise
+
+<table>
+<tr>
+<td valign="top" width="25%">
+
+**Customer Analytics**
+- RFM segmentation
+- CLV modeling (BG/NBD, Gamma-Gamma)
+- Churn analysis
+- Cohort analysis
+
+</td>
+<td valign="top" width="25%">
+
+**Financial Analytics**
+- Risk analytics
+- Portfolio optimization
+- Predictive analytics
+- Market analysis
+
+</td>
+<td valign="top" width="25%">
+
+**Data Engineering**
+- Medallion architecture
+- PySpark pipelines
+- dbt modeling
+- Prefect orchestration
+
+</td>
+<td valign="top" width="25%">
+
+**BI & ML**
+- Power BI dashboards
+- Streamlit applications
+- FastAPI services
+- Classification & regression
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+## Tech Stack
+
+<div align="center">
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![dbt](https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white)
+![Prefect](https://img.shields.io/badge/Prefect-070E10?style=for-the-badge&logo=prefect&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-### 🗄️ Databases & Cloud
-![MySQL](https://img.shields.io/badge/MySQL-4E9DE0?style=for-the-badge&logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-845EC2?style=for-the-badge&logo=sqlite&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-5ED1B8?style=for-the-badge&logo=mongodb&logoColor=black)
-![AWS](https://img.shields.io/badge/AWS-FF8A65?style=for-the-badge&logo=amazonaws&logoColor=white)
+</div>
 
----
+<br/>
 
-## 💥 Featured Projects
+## Experience
 
-- 🛍️ [Consumer360](https://github.com/Riddhis2226/Consumer-360) — RFM segmentation, cohort retention, CLV modeling on retail transactions
-- 💰 [AlphaPulse](https://github.com/Riddhis2226/AlphaPulse-Portfolio-Risk-Monitor) — Monte Carlo risk platform, VaR & Expected Shortfall
-- 🎓 [EduVista](https://github.com/Riddhis2226/Edu-Vista-Attendance) — Face recognition + RFID attendance, [live demo](https://edu-vista-attendance.lovable.app/)
-- 🍽️ [ZomatoLens](https://github.com/Riddhis2226/ZomatoLens-A-Data-Driven-Exploration-of-Restaurant-Trends-in-India) — NLP sentiment + geospatial restaurant analytics
-- 💼 More on [GitHub →](https://github.com/Riddhis2226?tab=repositories)
+| Organization | Focus Area |
+|---|---|
+| **Infotact Solutions** | Data analytics |
+| **BSNL — Raipur Division** | Telecom data & operations |
+| **Cognifyz Technologies** | Data science & analytics |
+| **UltraTech Cement** | Industrial / manufacturing analytics |
 
----
+Also served as **Team Lead at Smart India Hackathon (SIH) 2025** and **VP of an ethical hacking club**.
 
-## 🏆 GitHub Trophies
+<br/>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Riddhis2226&theme=radical&no-frame=true&no-bg=true&margin-w=15"/>
-</p>
+## GitHub Stats
 
----
+<div align="center">
 
-## 🔗 Connect With Me
+<img src="https://github-readme-stats.vercel.app/api?username=Riddhis2226&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" width="500"/>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/riddhima-singh-a7383431a" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-845EC2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:rsm130205@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-4E9DE0?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://github.com/Riddhis2226" target="_blank"><img src="https://img.shields.io/badge/GitHub-FF8A65?style=for-the-badge&logo=github&logoColor=black"/></a>
-</p>
+</div>
 
----
+<br/>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4E9DE0,100:845EC2&height=90&section=footer"/>
-</p>
+## Open to Opportunities
+
+<div align="center">
+
+**Data Analyst** · **BI Developer** · **Analytics Engineer** · **Data Engineer (Entry Level)**
+
+Graduating June 2026 · Open to internships and full-time roles
+
+</div>
+
+<br/>
+
+## Contact
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/riddhima-singh-a7383431a)
+[![GitHub](https://img.shields.io/badge/-Follow-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Riddhis2226)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:rsm130205@gmail.com)
+
+</div>
